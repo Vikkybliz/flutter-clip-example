@@ -1,8 +1,9 @@
-# tutorial
+# Flutter Clip Tutorial
 
-A new Flutter project.
+Using custom shapes for your images.
 
-## Getting Started
+## Images
+![Image description](images/BlueStacks 9_27_2021 12_36_12 PM.png) ![Image description](images/BlueStacks 9_27_2021 12_36_27 PM.pngg)
 
 This project is a starting point for a Flutter application.
 
